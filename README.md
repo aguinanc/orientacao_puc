@@ -69,3 +69,10 @@ Ao fim dos estudos, preparar uma apresentação para o dia 22/05 resumindo o con
 
 Vocês podem dividir entre vocês os temas caso queiram ou fazer em conjunto.
 </span>
+
+## **Instruções para 19/06:**
+
+#### Leitura livre do artigo sobre U-net aplicada no espaço K:
+
+K-strip: a novel segmentation algorithm in k-space for the application of skull stripping
+[Click here to view the PDF](k_space.pdf)
