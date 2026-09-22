@@ -84,21 +84,28 @@ https://www.geeksforgeeks.org/machine-learning/k-means-clustering-introduction/
 
 ## **Instruções para Dia 7:**
 
-#### Leitura de tutoriais sobre imagens de MRI:
+#### Tutoriais sobre imagens de MRI:
 
-##### O que são imagens de MRI?
+##### Como um MRI funciona
+
+Assista:
+https://youtu.be/FvOezMIL9BU?si=AE8hVOJb79yuThZO
+
+##### Leitura: O que são imagens de MRI?
 
 https://www.radiologymasterclass.co.uk/tutorials/mri/mri_images
 
-##### Produção do sinal
+##### Leitura: Produção do sinal
 
 https://www.radiologymasterclass.co.uk/tutorials/mri/mri_signal
 
-##### Imagens T1 e T2
+##### Leitura: Imagens T1 e T2
 
 https://www.radiologymasterclass.co.uk/tutorials/mri/t1_and_t2_images
 
+##### Leitura: Aprendizado profundo e IA na redução do tempo de exame de ressonância magnética
 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11497590/
 
 ## **Instruções para Dia 8:**
 
