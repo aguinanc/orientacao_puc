@@ -1,4 +1,4 @@
-## **Instruções para Dia 1:**
+## **Instruções para Semana 1:**
 
 ### <span style="color:yellow"> Introdução à segmentação de imagem </span>
 
@@ -22,7 +22,7 @@ https://medium.com/@raj.pulapakura/image-segmentation-a-beginners-guide-0ede9105
 
 https://www.ibm.com/think/topics/image-segmentation
 
-## **Instruções para Dia 2:**
+## **Instruções para Semana 2:**
 
 ### <span style="color:yellow"> Aprofundamento em thresholding e clustering </span>
 
@@ -48,7 +48,7 @@ https://www.geeksforgeeks.org/machine-learning/k-means-clustering-introduction/
 
 [Click here to view the notebook](k_means_clustering.ipynb)
 
-## **Instruções para Dia 3:**
+## **Instruções para Semana 3:**
 
 #### Implementação de script para segmentação através de thresholding:
 
@@ -58,7 +58,7 @@ https://www.geeksforgeeks.org/machine-learning/k-means-clustering-introduction/
 4) Identificar os valores de parâmetro que retornam o melhor resultado para a segmentação de cada imagem.
 5) Elaborar um relatório apresentando as imagens originais, os melhores resultados obtidos nas segmentações e os parâmetros associados, junto de uma justificativa do motivo pelo qual os melhores valores encontrados para os parâmetros foram esses. Incluir também uma descrição da relação entre os parâmetros do algoritmo e a qualidade da segmentação obtida.
 
-## **Instruções para Dia 4:**
+## **Instruções para Semana 4:**
 
 #### Implementação de script para segmentação através de K-means:
 
@@ -68,7 +68,7 @@ https://www.geeksforgeeks.org/machine-learning/k-means-clustering-introduction/
 4) Identificar os valores de parâmetro que retornam o melhor resultado para a segmentação de cada imagem.
 5) Elaborar um relatório apresentando as imagens originais, os melhores resultados obtidos nas segmentações e os parâmetros associados, junto de uma justificativa do motivo pelo qual os melhores valores encontrados para os parâmetros foram esses. Incluir também uma descrição da relação entre os parâmetros do algoritmo e a qualidade da segmentação obtida.
 
-## **Instruções para Dia 5:**
+## **Instruções para Semana 5:**
 
 #### Descrever um método adicional de segmentação:
 
@@ -76,13 +76,13 @@ https://www.geeksforgeeks.org/machine-learning/k-means-clustering-introduction/
 2) Cada grupo deve escolher um método diferente. Combinem entre vocês para não repetir!
 3) Opcional: Aplicar método adicional de segmentação às imagens na pasta do grupo e registrar resultados no relatório.
 
-## **Instruções para Dia 6:**
+## **Instruções para Semana 6:**
 
 #### Realizar apresentação do método adicional pesquisado para todos os grupos:
 
 1) Cada grupo deve realizar uma apresentação explicando o funcionamento do método de segmentação adicional que pesquisou, quais suas vantagens e desvantagens, e quais bibliotecas possuem suporte a esse método em ao menos uma linguagem de programação.
 
-## **Instruções para Dia 7:**
+## **Instruções para Semana 7:**
 
 #### Tutoriais sobre imagens de MRI:
 
@@ -107,33 +107,45 @@ https://www.radiologymasterclass.co.uk/tutorials/mri/t1_and_t2_images
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC11497590/
 
-## **Instruções para Dia 8:**
+## **Instruções para Semana 8:**
 
-## **Instruções para Dia 9:**
+### <span style="color:yellow"> Redes Neurais Convolucionais </span>
 
-## **Instruções para Dia 10:**
+#### Tutoriais sobre Aprendizado de Máquina e Redes Neurais
 
-## **Instruções para Dia 11:**
+Assista ao vídeo da IBM sobre IA, ML e DL:
+https://youtu.be/qYNweeDHiyU?si=MXOObuqc63pTp5ZH
 
-## **Instruções para Dia 12:**
+Assista à introdução a aprendizado de máquina do Simplilearn:
+https://youtu.be/ukzFI9rgwfU?si=E57Z80IQonqXvh5q
 
+#### Tutorial sobre Redes Neurais
 
+Assista à introdução a Redes Neurais do Simplilearn:
+https://youtu.be/bfmFfD2RIcg?si=t6bEET0naTq2aP20
 
-### <span style="color:yellow"> Convolução e Redes Convolucionais: </span>
+#### Introdução a Rede Convolucional (CNN):
 
-#### Leitura do resumo do Medium:
-
+Leitura do resumo do Medium:
 https://gakinolaalli.medium.com/convolution-in-image-processing-6d382da5048e
 
-#### Leitura do resumo do 8thlight:
-
+Leitura do resumo do 8thlight:
 https://8thlight.com/insights/what-is-a-convolution-how-to-teach-machines-to-see-images
 
-#### Ver video sobre CNNs:
-
+Ver video sobre CNNs:
 https://www.youtube.com/watch?v=YGILT182T6w
 
-## **Instruções para 15/05:**
+## **Instruções para Semana 9:**
+
+## **Instruções para Semana 10:**
+
+## **Instruções para Semana 11:**
+
+## **Instruções para Semana 12:**
+
+
+
+## **Instruções para --/--:**
 
 ### <span style="color:yellow"> U-net architecture: </span>
 
@@ -161,7 +173,7 @@ Ler somente as seções "Introduction" e "Material and Methods".
 <span style="color:orange">
 Observação) 
 
-Ao fim dos estudos, preparar uma apresentação para o dia 22/05 resumindo o conteúdo aprendido: 
+Ao fim dos estudos, preparar uma apresentação para o dia --/-- resumindo o conteúdo aprendido: 
 
 - Introdução à segmentação de imagem
 - Convolução e Redes Convolucionais
@@ -171,7 +183,7 @@ Ao fim dos estudos, preparar uma apresentação para o dia 22/05 resumindo o con
 Vocês podem dividir entre vocês os temas caso queiram ou fazer em conjunto.
 </span>
 
-## **Instruções para 19/06:**
+## **Instruções para --/--:**
 
 #### Leitura livre do artigo sobre U-net aplicada no espaço K:
 
