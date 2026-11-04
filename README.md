@@ -111,10 +111,6 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC11497590/
 
 ### <span style="color:yellow"> Redes Neurais Convolucionais </span>
 
-#### Tutorial sobre filtros convolucionais
-Leitura do artigo do Geeks for Geeks:
-https://www.geeksforgeeks.org/deep-learning/types-of-convolution-kernels/
-
 #### Tutoriais sobre Aprendizado de Máquina e Redes Neurais
 
 Assista ao vídeo da IBM sobre IA, ML e DL:
@@ -130,10 +126,13 @@ https://youtu.be/bfmFfD2RIcg?si=t6bEET0naTq2aP20
 
 #### Introdução a Rede Convolucional (CNN):
 
-Leitura do resumo do Medium:
+Leitura do artigo do Geeks for Geeks sobre filtros convolucionais:
+https://www.geeksforgeeks.org/deep-learning/types-of-convolution-kernels/
+
+Leitura do resumo do Medium sobre convolução no processamento de imagens:
 https://gakinolaalli.medium.com/convolution-in-image-processing-6d382da5048e
 
-Leitura do resumo do 8thlight:
+Leitura do resumo do 8thlight sobre convolução:
 https://8thlight.com/insights/what-is-a-convolution-how-to-teach-machines-to-see-images
 
 Ver video sobre CNNs:
