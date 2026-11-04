@@ -111,6 +111,10 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC11497590/
 
 ### <span style="color:yellow"> Redes Neurais Convolucionais </span>
 
+#### Tutorial sobre filtros convolucionais
+Leitura do artigo do Geeks for Geeks:
+https://www.geeksforgeeks.org/deep-learning/types-of-convolution-kernels/
+
 #### Tutoriais sobre Aprendizado de Máquina e Redes Neurais
 
 Assista ao vídeo da IBM sobre IA, ML e DL:
@@ -134,6 +138,13 @@ https://8thlight.com/insights/what-is-a-convolution-how-to-teach-machines-to-see
 
 Ver video sobre CNNs:
 https://www.youtube.com/watch?v=YGILT182T6w
+
+#### Implementação de script para aplicação de filtros convolucionais:
+
+1) Implementar um script para processamento de imagens através de filtros de convolução que aplique um filtro para detecção de bordas ou um filtro para suavização/remoção de ruído ou um filtro para aumento de nitidez, conforme selecionado pelo usuário do script;
+2) Aplicar o script a ao menos uma das imagens disponíveis na pasta correspondente a seu grupo, localizada em [arquivos](./arquivos_por_grupo).
+3) Deve-se realizar as 3 operações para a imagem: detecção de bordas, suavização/remoção de ruído e aumento de nitidez;
+4) Elaborar um relatório apresentando as imagens originais e os resultados obtidos para os 3 tipos de processamento propostos. Incluir também uma descrição dos efeitos observados pela aplicação de cada filtro.
 
 ## **Instruções para Semana 9:**
 
