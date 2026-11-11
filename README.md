@@ -151,6 +151,8 @@ https://www.youtube.com/watch?v=YGILT182T6w
 
 #### Instalação do software Biomedisa
 
+Página da ferramenta Biomedisa: https://biomedisa.info/
+
 1) Realizar a instalação do 3D Slicer, disponível em https://slicer.org/
 2) Realizar a instalação do software Biomedisa e sua extensão para o software 3D Slicer, disponível em https://github.com/biomedisa/biomedisa/
 3) Testar a utilização do software Biomedisa em conjunto com o software 3D Slicer em algum dos exemplos disponíveis na própria página do Biomedisa: https://biomedisa.info/gallery/
