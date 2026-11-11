@@ -147,6 +147,15 @@ https://www.youtube.com/watch?v=YGILT182T6w
 
 ## **Instruções para Semana 9:**
 
+### <span style="color:yellow"> Ferramentas para Segmentação de Imagens de MRI </span>
+
+#### Instalação do software Biomedisa
+
+1) Realizar a instalação do 3D Slicer, disponível em https://slicer.org/
+2) Realizar a instalação do software Biomedisa e sua extensão para o software 3D Slicer, disponível em https://github.com/biomedisa/biomedisa/
+3) Testar a utilização do software Biomedisa em conjunto com o software 3D Slicer em algum dos exemplos disponíveis na própria página do Biomedisa: https://biomedisa.info/gallery/
+4) Preparar para demonstrar a utilização dos softwares no encontro da Semana 10.
+
 ## **Instruções para Semana 10:**
 
 ## **Instruções para Semana 11:**
