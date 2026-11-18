@@ -160,6 +160,25 @@ Página da ferramenta Biomedisa: https://biomedisa.info/
 
 ## **Instruções para Semana 10:**
 
+### <span style="color:yellow"> Biomedisa DL: </span>
+
+#### Apresentação do uso do Biomedisa:
+
+Apresentação dos resultados obtidos e demonstração da utilização da ferramenta Biomedisa.
+
+#### Leitura do artigo sobre Deep Learning do Biomedisa:
+
+Ler somente as seções "Introduction" e "Material and Methods".
+[Click here to view the PDF](biomedisa_dl.pdf)
+
+#### Investigação da ferramenta MONAI:
+
+1) Acessar o projeto MONAI no GitHub e explorar a documentação e links disponíveis para compreender o projeto: [https://github.com/Project-MONAI/tutorials#2d-segmentation](https://github.com/project-monai/monai)
+2) Acessar o tutorial disponível para segmentação 2D, instalar a biblioteca e testar os códigos de exemplo disponíveis: https://github.com/Project-MONAI/tutorials#2d-segmentation
+3) Realizar uma apresentação descrevendo o projeto e explicar o funcionamento dos scripts de segmentação 2D do tutorial.
+
+## **Instruções para Semana 11:**
+
 ### <span style="color:yellow"> U-net architecture: </span>
 
 #### Leitura do resumo do Medium:
@@ -172,19 +191,10 @@ Leitura **leve** e **dinâmica** do artigo original. Não fiquem assustados. Vai
 
 [Click here to view the PDF](ronneberger_2015.pdf)
 
-### <span style="color:yellow"> Biomedisa DL: </span>
-
-#### Leitura do artigo sobre Deep Learning (do Biomedisa):
-
-Ler somente as seções "Introduction" e "Material and Methods".
-[Click here to view the PDF](biomedisa_dl.pdf)
-
 #### Opcional: Leitura livre do artigo sobre U-net aplicada no espaço K:
 
 K-strip: a novel segmentation algorithm in k-space for the application of skull stripping
 [Click here to view the PDF](k_space.pdf)
-
-## **Instruções para Semana 11:**
 
 ## **Instruções para Semana 12:**
 
