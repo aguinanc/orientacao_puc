@@ -160,14 +160,6 @@ Página da ferramenta Biomedisa: https://biomedisa.info/
 
 ## **Instruções para Semana 10:**
 
-## **Instruções para Semana 11:**
-
-## **Instruções para Semana 12:**
-
-
-
-## **Instruções para --/--:**
-
 ### <span style="color:yellow"> U-net architecture: </span>
 
 #### Leitura do resumo do Medium:
@@ -180,10 +172,6 @@ Leitura **leve** e **dinâmica** do artigo original. Não fiquem assustados. Vai
 
 [Click here to view the PDF](ronneberger_2015.pdf)
 
-#### Investigar notebooks de Convolução e de U-net:
-
-[Click here to view the notebook](U-net_architecture.ipynb)
-
 ### <span style="color:yellow"> Biomedisa DL: </span>
 
 #### Leitura do artigo sobre Deep Learning (do Biomedisa):
@@ -191,22 +179,16 @@ Leitura **leve** e **dinâmica** do artigo original. Não fiquem assustados. Vai
 Ler somente as seções "Introduction" e "Material and Methods".
 [Click here to view the PDF](biomedisa_dl.pdf)
 
-<span style="color:orange">
-Observação) 
-
-Ao fim dos estudos, preparar uma apresentação para o dia --/-- resumindo o conteúdo aprendido: 
-
-- Introdução à segmentação de imagem
-- Convolução e Redes Convolucionais
-- U-net Architecture
-- Biomedisa DL
-
-Vocês podem dividir entre vocês os temas caso queiram ou fazer em conjunto.
-</span>
-
-## **Instruções para --/--:**
-
 #### Leitura livre do artigo sobre U-net aplicada no espaço K:
 
 K-strip: a novel segmentation algorithm in k-space for the application of skull stripping
 [Click here to view the PDF](k_space.pdf)
+
+## **Instruções para Semana 11:**
+
+## **Instruções para Semana 12:**
+
+
+## **Instruções para --/--:**
+
+## **Instruções para --/--:**
