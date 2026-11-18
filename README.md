@@ -179,7 +179,7 @@ Leitura **leve** e **dinâmica** do artigo original. Não fiquem assustados. Vai
 Ler somente as seções "Introduction" e "Material and Methods".
 [Click here to view the PDF](biomedisa_dl.pdf)
 
-#### Leitura livre do artigo sobre U-net aplicada no espaço K:
+#### Opcional: Leitura livre do artigo sobre U-net aplicada no espaço K:
 
 K-strip: a novel segmentation algorithm in k-space for the application of skull stripping
 [Click here to view the PDF](k_space.pdf)
