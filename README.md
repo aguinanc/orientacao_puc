@@ -173,7 +173,7 @@ Ler somente as seções "Introduction" e "Material and Methods".
 
 #### Investigação da ferramenta MONAI:
 
-1) Acessar o projeto MONAI no GitHub e explorar a documentação e links disponíveis para compreender o projeto: [https://github.com/Project-MONAI/tutorials#2d-segmentation](https://github.com/project-monai/monai)
+1) Acessar o projeto MONAI no GitHub e explorar a documentação e links disponíveis para compreender o projeto: [Project-MONAI](https://github.com/project-monai/monai)
 2) Acessar o tutorial disponível para segmentação 2D, instalar a biblioteca e testar os códigos de exemplo disponíveis: https://github.com/Project-MONAI/tutorials#2d-segmentation
 3) Realizar uma apresentação descrevendo o projeto e explicar o funcionamento dos scripts de segmentação 2D do tutorial.
 
